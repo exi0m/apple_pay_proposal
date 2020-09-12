@@ -1,2 +1,3 @@
-# apple_pay_proposal
-Proposal on apple pay
+# Apple Pay Proposal
+
+## The evolutionary wall pusher of Apple that has changed the way we use payment.
